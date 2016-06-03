@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>eu.vahlas.json.schema</groupId>
+  <artifactId>json-schema-validator</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150527155601</lastUpdated>
+  </versioning>
+</metadata>

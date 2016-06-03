@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>edu.washington.cs.vanish</groupId>
+  <artifactId>vanish-core</artifactId>
+  <versioning>
+    <versions>
+      <version>0.2.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150810100436</lastUpdated>
+  </versioning>
+</metadata>

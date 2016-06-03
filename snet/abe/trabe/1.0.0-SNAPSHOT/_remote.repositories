@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Mon Mar 07 17:43:03 CET 2016
+trabe-1.0.0-SNAPSHOT.jar>=
+trabe-1.0.0-SNAPSHOT-sources.jar>=
+trabe-1.0.0-SNAPSHOT.pom>=
+trabe-1.0.0-SNAPSHOT-javadoc.jar>=
+trabe-1.0.0-SNAPSHOT-jar-with-dependencies.jar>=
