@@ -1,2 +1,2 @@
 # mvn-repo
-This is the Maven artefacts repository beloging to 'Entrance'.
+This is the Maven artefacts repository of 'Entrance'.
